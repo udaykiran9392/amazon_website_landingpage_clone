@@ -57,13 +57,20 @@ This is an ideal **portfolio project** that showcases attention to design detail
 
 ---
 
-✨ Key Features
-Feature	Description
+## ✨ Key Features
+
+**Feature	Description**
+
 🧭 Navigation Bar - 	Fully styled navbar with logo, search, and cart
+
 🖼️ Hero Section	Large - promotional background with engaging visuals
+
 📦 Product Grid - 	4-section grid with category titles and images
+
 📱 Responsive Design	- Flexbox-based responsiveness for mobile/tablet compatibility
+
 🧩 Reusable Components	- Clean modular structure for reuse in future projects
+
 🎨 CSS-Only Styling	- Designed with only HTML & CSS (no JavaScript or frameworks used)
 
 
