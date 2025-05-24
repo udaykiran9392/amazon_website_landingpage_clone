@@ -57,14 +57,15 @@ This is an ideal **portfolio project** that showcases attention to design detail
 
 ---
 
-## 📈 Growth Insights & Project Potential
+✨ Key Features
+Feature	Description
+🧭 Navigation Bar - 	Fully styled navbar with logo, search, and cart
+🖼️ Hero Section	Large - promotional background with engaging visuals
+📦 Product Grid - 	4-section grid with category titles and images
+📱 Responsive Design	- Flexbox-based responsiveness for mobile/tablet compatibility
+🧩 Reusable Components	- Clean modular structure for reuse in future projects
+🎨 CSS-Only Styling	- Designed with only HTML & CSS (no JavaScript or frameworks used)
 
-✅ UI/UX and frontend design jobs have seen a **22% growth rate year-over-year** globally.  
-✅ eCommerce UI/UX is one of the **top 5 fastest-growing niches** for junior developers.  
-✅ Recruiters strongly favor projects that show **replication of real-world brands** like Amazon, Netflix, etc.  
-✅ With JS/React integration, this clone can become a full-fledged frontend showcase — leading to a **35–40% increase in project engagement** during portfolio reviews.
-
----
 
 ## 🛠️ Tech Stack Used
 
